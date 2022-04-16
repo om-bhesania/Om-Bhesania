@@ -17,19 +17,19 @@ hi, i'm [Om Bhesania](om-bhesania), and this is my Brand New github accountan i 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/om-bhesania/READEME/main/ombhesania/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/om-bhesania/om-bhesania/main/ombhesania/code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:bhesaniaom@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
-<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/READEME/main/ombhesania/html%20css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/READEME/main/ombhesania/C%2B%2B-Logo.wine.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/READEME/main/ombhesania/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/READEME/main/ombhesania/node.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/READEME/main/ombhesania/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/READEME/main/ombhesania/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/om-bhesania/main/ombhesania/C%2B%2B-Logo.wine.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/om-bhesania/main/ombhesania/html%20css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/om-bhesania/main/ombhesania/java.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/om-bhesania/main/ombhesania/node.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/om-bhesania/main/ombhesania/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/om-bhesania/om-bhesania/main/ombhesania/git.png"></code>
 
 
 📊 **this week i spent my time on:**
