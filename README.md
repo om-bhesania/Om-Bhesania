@@ -3,10 +3,7 @@
 <a href="https://www.instagram.com/om_bhesania/">
   <img align="left" alt="Om's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/bhesania_om">
-  <img align="left" alt="Om Bhesania | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/om-bhesania-2159151b2/">
+<a href="https://www.linkedin.com/in/om-bhesania">
   <img align="left" alt="Om's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -61,7 +58,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=om-bhesania&show_icons=true&theme=gotham" alt="om-bhesania" />-->
 <h1 align="center">Hi 👋, I'm Om Bhesania</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-bhesania&label=Profile%20views&color=0e75b6&style=flat" alt="om-bhesania" /> </p>
 
