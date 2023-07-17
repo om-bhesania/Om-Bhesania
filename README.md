@@ -4,7 +4,7 @@
   <img align="left" alt="Om's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/om-bhesania">
-  <img align="left" alt="Om's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Om's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)" />
 </a>
 
 
@@ -68,17 +68,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 - 🔭 I’m currently working on **few freelancing projects**
 
-- 🌱 I’m currently learning **DevOPs and Cyber Security**
+- 🌱 I’m currently learning **MERN &amp; MEAN stack**
 
 - 👯 I’m down to collaborate on **any kind of technical project**
 
-- 👨‍💻 All of my projects are available at [ombhesania.tk](ombhesania.tk)
+- 👨‍💻 All of my projects are available at [ombhesania.codes](ombhesania.codes)
 
 - 💬 Ask me about **react,html,css,python.java,c,c++,javascript....**
 
 - 📫 How to reach me **bhesaniaom@gmail.com**
 
-- 📄 Know about my experiences [ombhesania.tk](ombhesania.tk)
+- 📄 Know about my experiences [ombhesania.codes](ombhesania.codes)
 
 - ⚡ Fun fact **I am Still a student**
 
